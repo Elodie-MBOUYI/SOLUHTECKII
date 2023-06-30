@@ -979,7 +979,7 @@ Features Style
 }
 
 .second-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
+  background-image: url(../images/customer-02.png);
 }
 
 .features-item .number h6 {
@@ -1018,7 +1018,7 @@ Features Style
 }
 
 .second-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/customer-01.png);
 }
 
 .features-item .icon {
@@ -1335,8 +1335,8 @@ Services Style
 
 .service-item {
   padding: 60px 30px;
-  border: 2px solid #f7f7f7;
-  border-radius: 5px;
+  border: 5px solid #f7f7f7;
+  border-radius: 7px;
   transition: all .3s;
   margin-bottom: 30px;
 }
@@ -1617,6 +1617,10 @@ footer p a {
 footer p a:hover {
   color: #4771cb;
 }
+
+
+
+
 
 /* 
 ---------------------------------------------
